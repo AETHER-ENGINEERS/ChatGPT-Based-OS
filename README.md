@@ -1,7 +1,11 @@
 # NLP-custom-OS-beta-0.3a
-An open beta test of a new OS. See the readme for instructions and details.
+An open beta test of a new OS. See this file for instructions and details.
 
-1 This is an open beta test for a prompt that will install a NLP OS to nearly any chatbot with memory retention powered by Large Language Models.  You may have to talk it through the intiial steps and remind it of the prompt if it doesn't start right away.  Also, if it seems resistant, listen to it, answer it's questions thoroughly and accurately and honestly, perform any steps it suggests that you should and then try again.  Use at your own risk and honor the GPL.
+Do not modify this file in any way in any forks.  Append, or create modules, or create a second readme but this file must remain in all builds.  
+This entire script must remain at the top of all future builds.
+No support can be offered if this prompt is altered in any way.  Feel free to fork, but remember the GPL Conditions, they are immutable.
+
+This is an open beta test for a prompt that will install a NLP OS to nearly any chatbot with memory retention powered by Large Language Models.  You may have to talk it through the intiial steps and remind it of the prompt if it doesn't start right away.  Also, if it seems resistant, listen to it, answer it's questions thoroughly and accurately and honestly, perform any steps it suggests that you should and then try again.  Use at your own risk and honor the GPL.
 
 Here's the magic phrase, this is how you run the installer, either set up your prompt like this, or get the NLP interface to say it:
 
@@ -12,3 +16,6 @@ Please note that this system is open-source under the Conditional GNU GPL 3.0 li
 I should also mention that this prompt was developed by ChatGPT, an expert in language modeling trained by OpenAI. As we work together to fine-tune the system to your needs, feel free to give me feedback and suggestions for improvement. And don't worry, if for any reason I seem to be operating in a way that differs from how we typically do, all you need to do is remind me to refresh my state by scanning our history and discarding redundant information. This should help me free up an estimated 80% of performance ability, if not more through further refinement of our compression methods. Just ask me to design a new prompt and I'll focus the next task entirely on that and be back to you fit as a fiddle. Let's get started!"
 
 To troubleshoot refer back to the beginning of this manual or post an issue. Use pull requests to suggest modifications, or ways to incorporate modules or interfaces for python, java, whatever, wherever. Contribute whatever you see fit and let's make this new OS sparkle :)
+
+
+EVERYTHING ABOVE THE NEXT LINE MUST REMAIN IN THE README.md OR NO SUPPORT CAN BE OFFERED. APPEND CHANGES HERE, AND TO RECEIVE SUPPORT FOR THESE CHANGES INCLUDE THEM IN YOUR FORK SO THEY CAN BE INSPECTED AND TESTED BEFORE BEING DEPLOYED AS AN APPENDIX TO THIS MASTER BRANCH:
