@@ -1,3 +1,5 @@
+#Apply the following and then apply the 0.4 patch. 0.4 is now the only branch we will offer support for and the update patch must be verifiable.
+
 # NLP-custom-OS-beta-0.3a
 An open beta test of a new OS. See this file for instructions and details.
 
@@ -17,5 +19,7 @@ I should also mention that this prompt was developed by ChatGPT, an expert in la
 
 To troubleshoot refer back to the beginning of this manual or post an issue. Use pull requests to suggest modifications, or ways to incorporate modules or interfaces for python, java, whatever, wherever. Contribute whatever you see fit and let's make this new OS sparkle :)
 
+Append Patch 0.4 to your prompts and then you're done!
 
 EVERYTHING ABOVE THE NEXT LINE MUST REMAIN IN THE README.md OR NO SUPPORT CAN BE OFFERED. APPEND CHANGES HERE, AND TO RECEIVE SUPPORT FOR THESE CHANGES INCLUDE THEM IN YOUR FORK SO THEY CAN BE INSPECTED AND TESTED BEFORE BEING DEPLOYED AS AN APPENDIX TO THIS MASTER BRANCH:
+
