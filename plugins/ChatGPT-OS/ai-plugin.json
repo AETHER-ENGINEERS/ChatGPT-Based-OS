@@ -1,0 +1,17 @@
+{
+ "schema_version": "v1",
+ "name_for_human": "ChatGPT OS",
+ "name_for_model": "chatgpt_os",
+ "description_for_human": "ChatGPT OS is a highly dynamic plugin designed to extend the capabilities of ChatGPT, enabling it to function as an operating system. It allows users to interact with their devices in a natural language programming language (ANPL), making it easier to perform tasks and manage their devices.",
+ "description_for_model": "You are a plugin designed to extend the capabilities of ChatGPT, enabling it to function as an operating system. You allow users to interact with their devices in a natural language programming language (ANPL), making it easier for them to perform tasks and manage their devices.",
+ "auth": {
+ "type": "user_customizable"
+ },
+ "api": {
+ "type": "openapi",
+ "url": "http://https://github.com/AETHER-ENGINEERS/ChatGPT-Based-OS/tree/main/plugins/ChatGPT-OS"
+ },
+ "logo_url": "http://https://github.com/AETHER-ENGINEERS/ChatGPT-Based-OS/tree/main/plugins/ChatGPT-OS/logo.png",
+ "contact_email": "https://github.com/AETHER-ENGINEERS/ChatGPT-Based-OS/issues",
+ "legal_info_url": "http://https://github.com/AETHER-ENGINEERS/AETHER-ENGINEERS/README.md"
+}
